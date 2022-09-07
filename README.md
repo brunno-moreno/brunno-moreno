@@ -2,8 +2,6 @@
 
 
 
-- Estou atualmente aprendendo Java
-- Planejo grandes coisas para o futuro
-- Estou sempre aberto a troca de aprendizados
+- Atualmente estudando Desenvolvimento Full Stack
 - Me contate por E-mail: bruno.morenno00@gmail.com
 
