@@ -20,11 +20,11 @@
 
 
 💼 Em busca de uma oportunidade como estagiário ou júnior <br>
-👨‍💻 Estudando Backend e Frontend <br>
-📧 Me contate por E-mail ou Linkedin:
+👨‍💻 Estudando Backend e Frontend <br><br>
 
-<br>
 
+
+📧 Me contate por Linkedin ou E-mail:
 <div>
   <a href="https://www.linkedin.com/in/bruno-moreno-a1917b245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:brunoomren1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
