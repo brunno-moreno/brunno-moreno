@@ -1,9 +1,9 @@
 ### Olá! Seja bem vindo ao meu perfil!
 
+<br>
+
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunno-moreno&hide=contribs,prs&show_icons=true&theme=tokyonight&rank_icon=github&line_height=30) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunno-moreno&layout=compact&theme=tokyonight)
-
-<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
@@ -18,7 +18,6 @@
 
 ##
 
-<br>
 
 💼 Em busca de uma oportunidade como estagiário ou júnior <br>
 👨‍💻 Estudando Backend e Frontend <br>
@@ -30,8 +29,3 @@
   <a href="https://www.linkedin.com/in/bruno-moreno-a1917b245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:brunoomren1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
-<br>
-<br>
-
-
