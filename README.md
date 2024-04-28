@@ -34,8 +34,4 @@
 <br>
 <br>
 
-![Snake animation](https://github.com/brunno-moreno/brunno-moreno/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=brunno-moreno&repo=brunno-moreno&theme=react)](https://github.com/brunno-moreno/brunno-moreno)
-
-
 
