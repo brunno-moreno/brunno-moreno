@@ -34,5 +34,7 @@
 <br>
 <br>
 
+![Snake animation](https://github.com/brunno-moreno/brunno-moreno/blob/output/github-contribution-grid-snake.svg)
+
 
 
