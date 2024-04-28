@@ -1,6 +1,7 @@
 ### Olá! Seja bem vindo ao meu perfil!
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunno-moreno&hide=contribs,prs&show_icons=true&theme=tokyonight&) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunno-moreno&layout=compact&theme=tokyonight)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunno-moreno&hide=contribs,prs&show_icons=true&theme=tokyonight&rank_icon=github&line_height=30) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunno-moreno&layout=compact&theme=tokyonight)
 
 <br>
 
