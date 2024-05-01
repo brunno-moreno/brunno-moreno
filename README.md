@@ -22,7 +22,7 @@
 
 <br>
 💼 Em busca de uma oportunidade como estagiário ou júnior <br>
-👨‍💻 Estudando Backend e Frontend <br><br>
+👨‍💻 Atualmente focado no estudo das linguagens Java e C#<br><br>
 
 
 
