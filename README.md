@@ -21,8 +21,8 @@
 ##
 
 <br>
-💼 Em busca de uma oportunidade como estagiário ou júnior <br>
-👨‍💻 Atualmente focado no estudo das linguagens Java e C#<br><br>
+💼 Dev C# <br>
+<br><br>
 
 
 
